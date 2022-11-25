@@ -18,3 +18,18 @@ function suma (float $numero1, float $numero2) : float
 {
     return $numero1 + $numero2;
 }
+
+function resta (float $numero1, float $numero2) : float
+{
+    return $numero1 - $numero2;
+}
+
+function division (float $numero1, float $numero2) : float
+{
+    return $numero1 / $numero2;
+}
+
+function multiplicacion (float $numero1, float $numero2) : float
+{
+    return $numero1 * $numero2;
+}
